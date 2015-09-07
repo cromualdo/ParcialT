@@ -1,0 +1,2 @@
+# ParcialT
+Tienda los gorditos
